@@ -26,6 +26,7 @@ android {
         namespace("com.baseflow.geolocator")
     }
 
+    compileSdkVersion 34
     compileSdk flutter.compileSdkVersion
 
     defaultConfig {
